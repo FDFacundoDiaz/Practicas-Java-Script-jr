@@ -1,5 +1,6 @@
            //METODOS DE CADENAS
 
+           
 //- concat () Si una cadena comienza con los caracteres de otra cadena, 
 //devuelve TRUE; sino devuelve FALSE.
 
@@ -48,7 +49,7 @@
 // let cadena7 = 50;
 // let cadena8 = ["pedro, matias"];
 
-let cadena9 = "        pedro     ";
+// let cadena9 = "        pedro     ";
 
 // let resultado = cadena.concat (cadena2);
 // let resultado = cadena.startsWith (cadena2);
